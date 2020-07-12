@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">diusframi</string>
+    <string name="intel">Int</string>
+    <string name="str">Fue</string>
+    <string name="spe">Vel</string>
+    <string name="dur">Dur</string>
+    <string name="pow">Pod</string>
+    <string name="com">Com</string>
+    <string name="list_title">Héroes y Villanos</string>
+    <string name="gender">Género</string>
+    <string name="race">Raza</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="eye_color">Color de ojos</string>
+    <string name="hair_color">Color de pelo</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="alter_egos">Álter egos</string>
+    <string name="aliases">Alias</string>
+    <string name="place_of_birth">Lugar de nacimiento</string>
+    <string name="appearance">Apariencia</string>
+    <string name="publisher">Editora</string>
+    <string name="alignment">Alineación</string>
+    <string name="search_by_name">Buscar por nombre…</string>
+    <string name="no_connection">No se pudieron obtener datos. Asegúrate de que estás conectado a Internet.</string>
+</resources>

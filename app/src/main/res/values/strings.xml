@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">diusframi</string>
+    <string name="intel">Int</string>
+    <string name="str">Str</string>
+    <string name="spe">Spe</string>
+    <string name="dur">Dur</string>
+    <string name="pow">Pow</string>
+    <string name="com">Com</string>
+    <string name="list_title">Heroes and Villains</string>
+    <string name="gender">Gender</string>
+    <string name="race">Race</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="eye_color">Eye Color</string>
+    <string name="hair_color">Hair Color</string>
+    <string name="full_name">Full Name</string>
+    <string name="alter_egos">Alter Egos</string>
+    <string name="aliases">Aliases</string>
+    <string name="place_of_birth">Place of Birth</string>
+    <string name="appearance">Appearance</string>
+    <string name="publisher">Publisher</string>
+    <string name="alignment">Alignment</string>
+    <string name="search_by_name">Search by name…</string>
+    <string name="no_connection">Could not get any data. Make sure you are connected to the Internet.</string>
+</resources>
